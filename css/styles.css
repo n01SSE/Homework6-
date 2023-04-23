@@ -942,7 +942,8 @@ width: 16px;
             border-radius: 4px;
             border: none;
 
-            margin-top: 40px;
+            margin-top: 24px;
+            margin-bottom: 24px;
         transition: background-color var(--transition-hover);
         margin-bottom: 24px;
         cursor: pointer;
